@@ -46,5 +46,3 @@ def run_quiz(questions):
     print(f"You got {score} out of {len(questions)} questions correct.")
 
 run_quiz(questions)
-
-#test
